@@ -1,6 +1,6 @@
 Programer: Andrew McCloud
-Date: 5.3.22
-Program: Hello Square
+Date: 5.4.22
+Program: Figure 8
 
 
 async function startProgram() {
